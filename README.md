@@ -1,8 +1,8 @@
 Oi, Eu sou o Leo!
 
-- Cursando Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️
+- Estou cursando Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️
 - Estou estudando JavaScript com React e React-Native  📱 
-- Iniciante em desenvolvimento de software
+- Sou iniciante em desenvolvimento de software
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardoso910&show_icons=true&theme=tokyonight&hide=contribs,prs&)](https://github.com/LeoCardoso910/github-readme-stats)
 
