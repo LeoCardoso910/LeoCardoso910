@@ -1,8 +1,8 @@
-###<strong>Oi, Eu sou o Leo!</strong>
+<h1>Oi, Eu sou o Leo!</h1>
+<h5>- Estou cursando Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️</h5>
+<h5>- Estou estudando JavaScript com React e React-Native  📱</h5> 
+<h5>- Sou iniciante em desenvolvimento de software</h5>
 
-- Estou cursando Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️
-- Estou estudando JavaScript com React e React-Native  📱 
-- Sou iniciante em desenvolvimento de software
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardoso910&show_icons=true&theme=tokyonight&hide=contribs,prs&)](https://github.com/LeoCardoso910/github-readme-stats)
 
