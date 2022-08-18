@@ -1,6 +1,6 @@
 <h1>Oi, Eu sou o Leo!</h1>
 <h4>- Cursando Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️</h4>
-<h4>- Estudando JavaScript com React e React-Native  📱</h4> 
+<h4>- Estudando JavaScript com React e React.</h4> 
 <h4>- Iniciante em desenvolvimento de software</h4>
 
 
