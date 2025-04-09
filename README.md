@@ -1,8 +1,6 @@
 <h1>Oi, Eu sou o Leo!</h1>
-<h4>- Cursando Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️</h4>
-<h4>- Estudando Python. 🐍</h4> 
-<h4>- Iniciante em desenvolvimento de software</h4>
-
+<h4>- Graduado em Engenharia de Software na Universidade Do Estado Do Pará  👨‍🎓 🖥️</h4>
+<h4>- Cursando Mestrado em Genética e Biologia Molecular - Bioinformática</h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardoso910&show_icons=true&theme=tokyonight&hide=contribs,prs&)](https://github.com/LeoCardoso910/github-readme-stats)
 
